@@ -1,0 +1,15 @@
+## Assignment 1 : 
+- CIFAR-10 is a dataset that consists of several images divided into the following 10 classes:
+    - Airplanes
+    - Automobiles
+    - Birds
+    - Cats
+    - Deers
+    - Dogs
+    - Frogs
+    - Horses
+    - Ships
+    - Trucks
+- Dataset consists of 60,000 32x32 color images, ie 6000 images per class. 
+- We need to design a model to predict the label of these images correctly. 
+- Data Source: https://github.com/YoongiKim/CIFAR-10-images

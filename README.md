@@ -1,4 +1,4 @@
-## Problem Statement: 
+## Problem Statement 
 - CIFAR-10 is a dataset that consists of several images divided into the following 10 classes:
     - Airplanes
     - Automobiles
